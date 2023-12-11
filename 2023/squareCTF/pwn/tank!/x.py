@@ -47,8 +47,8 @@ def init():
 def exploit(pp):
     #offset = 
     log.info("binary loaded")
-    for i in range(0,6):
-        print(pp.recvuntil(b"power:"))#.decode("utf-8"))
+    for i in range(0,3):
+        print(pp.recvuntil(b"power:")).decode("utf-8"))
         enemypos = guess_player()
         log.warn(f"player pos {enemypos}")
         log.warn("sending the power")
@@ -61,17 +61,6 @@ def exploit(pp):
         log.warn("pew!!!!")
         pp.recvuntil(b"ready!")
         pp.sendline(b"pew!")
-        if (i == 2):
-            print(pp.recvuntil(b"2: -"))
-            pp.sendline(b"2")
-            pp.recv()
-            print(pp.recvuntil(b"power:"))#.decode("utf-8"))
-            pp.sendline(b"33")
-            pp.recvuntil(b":")
-            pp.sendline(b"45")
-            pp.recvuntil(b"ready!")
-            pp.sendline(b"pew!")
-
 
     #   pp.recv()
     # pp.sendline(b"33")

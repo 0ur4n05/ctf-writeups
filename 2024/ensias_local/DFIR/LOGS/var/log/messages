@@ -1,0 +1,66 @@
+Jan 25 20:17:27 vyos rsyslogd:  message repeated 3 times: [-- MARK --]
+Jan 25 20:17:27 vyos rsyslogd: program '/usr/sbin/logrotate' (pid 12352) exited with status 1 [v8.2302.0]
+Jan 25 20:17:27 vyos systemd[1]: serial-getty@ttyS0.service: Scheduled restart job, restart counter is at 1984.
+Jan 25 20:17:27 vyos systemd[1]: Stopped serial-getty@ttyS0.service - Serial Getty on ttyS0.
+Jan 25 20:17:27 vyos systemd[1]: Started serial-getty@ttyS0.service - Serial Getty on ttyS0.
+Jan 25 20:17:27 vyos agetty[12362]: /dev/ttyS0: not a tty
+Jan 25 20:17:37 vyos systemd[1]: serial-getty@ttyS0.service: Deactivated successfully.
+Jan 25 20:17:37 vyos systemd[1]: serial-getty@ttyS0.service: Scheduled restart job, restart counter is at 1985.
+Jan 25 20:17:37 vyos systemd[1]: Stopped serial-getty@ttyS0.service - Serial Getty on ttyS0.
+Jan 25 20:17:37 vyos systemd[1]: Started serial-getty@ttyS0.service - Serial Getty on ttyS0.
+Jan 25 20:17:37 vyos agetty[12399]: /dev/ttyS0: not a tty
+Jan 25 20:17:47 vyos systemd[1]: serial-getty@ttyS0.service: Deactivated successfully.
+Jan 25 20:17:48 vyos systemd[1]: serial-getty@ttyS0.service: Scheduled restart job, restart counter is at 1986.
+Jan 25 20:17:48 vyos systemd[1]: Stopped serial-getty@ttyS0.service - Serial Getty on ttyS0.
+Jan 25 20:17:48 vyos systemd[1]: Started serial-getty@ttyS0.service - Serial Getty on ttyS0.
+Jan 25 20:17:48 vyos agetty[12405]: /dev/ttyS0: not a tty
+Jan 25 20:17:58 vyos systemd[1]: serial-getty@ttyS0.service: Deactivated successfully.
+Jan 25 20:17:58 vyos systemd[1]: serial-getty@ttyS0.service: Scheduled restart job, restart counter is at 1987.
+Jan 25 20:17:58 vyos systemd[1]: Stopped serial-getty@ttyS0.service - Serial Getty on ttyS0.
+Jan 25 20:17:58 vyos systemd[1]: Started serial-getty@ttyS0.service - Serial Getty on ttyS0.
+Jan 25 20:17:58 vyos agetty[12408]: /dev/ttyS0: not a tty
+Jan 25 20:18:08 vyos systemd[1]: serial-getty@ttyS0.service: Deactivated successfully.
+Jan 25 20:18:08 vyos systemd[1]: serial-getty@ttyS0.service: Scheduled restart job, restart counter is at 1988.
+Jan 25 20:18:08 vyos systemd[1]: Stopped serial-getty@ttyS0.service - Serial Getty on ttyS0.
+Jan 25 20:18:08 vyos systemd[1]: Started serial-getty@ttyS0.service - Serial Getty on ttyS0.
+Jan 25 20:18:08 vyos agetty[12411]: /dev/ttyS0: not a tty
+Jan 25 20:18:17 vyos polkitd[12259]: Registered Authentication Agent for unix-process:12412:2043827 (system bus name :1.21 [/usr/bin/pkttyagent --notify-fd 5 --fallback], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+Jan 25 20:18:18 vyos systemd[1]: serial-getty@ttyS0.service: Deactivated successfully.
+Jan 25 20:18:18 vyos systemd[1]: serial-getty@ttyS0.service: Scheduled restart job, restart counter is at 1989.
+Jan 25 20:18:18 vyos systemd[1]: Stopped serial-getty@ttyS0.service - Serial Getty on ttyS0.
+Jan 25 20:18:18 vyos systemd[1]: Started serial-getty@ttyS0.service - Serial Getty on ttyS0.
+Jan 25 20:18:18 vyos agetty[12429]: /dev/ttyS0: not a tty
+Jan 25 20:18:20 vyos polkitd[12259]: Operator of unix-process:12412:2043827 successfully authenticated as unix-user:vyos to gain TEMPORARY authorization for action org.freedesktop.systemd1.manage-units for system-bus-name::1.22 [systemctl start ssh.service] (owned by unix-user:vyos)
+Jan 25 20:18:20 vyos polkitd[12259]: Unregistered Authentication Agent for unix-process:12412:2043827 (system bus name :1.21, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8) (disconnected from bus)
+Jan 25 20:18:21 vyos sshd[12432]: Connection reset by authenticating user vyos 10.255.255.253 port 65212 [preauth]
+Jan 25 20:18:28 vyos systemd[1]: serial-getty@ttyS0.service: Deactivated successfully.
+Jan 25 20:18:29 vyos systemd[1]: serial-getty@ttyS0.service: Scheduled restart job, restart counter is at 1990.
+Jan 25 20:18:29 vyos systemd[1]: Stopped serial-getty@ttyS0.service - Serial Getty on ttyS0.
+Jan 25 20:18:29 vyos systemd[1]: Started serial-getty@ttyS0.service - Serial Getty on ttyS0.
+Jan 25 20:18:29 vyos agetty[12436]: /dev/ttyS0: not a tty
+Jan 25 20:18:29 vyos rsyslogd: -- MARK --
+Jan 25 20:18:39 vyos systemd[1]: serial-getty@ttyS0.service: Deactivated successfully.
+Jan 25 20:18:39 vyos systemd[1]: serial-getty@ttyS0.service: Scheduled restart job, restart counter is at 1991.
+Jan 25 20:18:39 vyos systemd[1]: Stopped serial-getty@ttyS0.service - Serial Getty on ttyS0.
+Jan 25 20:18:39 vyos systemd[1]: Started serial-getty@ttyS0.service - Serial Getty on ttyS0.
+Jan 25 20:18:39 vyos agetty[12439]: /dev/ttyS0: not a tty
+Jan 25 20:18:49 vyos systemd[1]: serial-getty@ttyS0.service: Deactivated successfully.
+Jan 25 20:18:49 vyos systemd[1]: serial-getty@ttyS0.service: Scheduled restart job, restart counter is at 1992.
+Jan 25 20:18:49 vyos systemd[1]: Stopped serial-getty@ttyS0.service - Serial Getty on ttyS0.
+Jan 25 20:18:49 vyos systemd[1]: Started serial-getty@ttyS0.service - Serial Getty on ttyS0.
+Jan 25 20:18:49 vyos agetty[12442]: /dev/ttyS0: not a tty
+Jan 25 20:18:59 vyos systemd[1]: serial-getty@ttyS0.service: Deactivated successfully.
+Jan 25 20:18:59 vyos systemd[1]: serial-getty@ttyS0.service: Scheduled restart job, restart counter is at 1993.
+Jan 25 20:18:59 vyos systemd[1]: Stopped serial-getty@ttyS0.service - Serial Getty on ttyS0.
+Jan 25 20:18:59 vyos systemd[1]: Started serial-getty@ttyS0.service - Serial Getty on ttyS0.
+Jan 25 20:18:59 vyos agetty[12445]: /dev/ttyS0: not a tty
+Jan 25 20:19:09 vyos systemd[1]: serial-getty@ttyS0.service: Deactivated successfully.
+Jan 25 20:19:10 vyos systemd[1]: serial-getty@ttyS0.service: Scheduled restart job, restart counter is at 1994.
+Jan 25 20:19:10 vyos systemd[1]: Stopped serial-getty@ttyS0.service - Serial Getty on ttyS0.
+Jan 25 20:19:10 vyos systemd[1]: Started serial-getty@ttyS0.service - Serial Getty on ttyS0.
+Jan 25 20:19:10 vyos agetty[12448]: /dev/ttyS0: not a tty
+Jan 25 20:19:20 vyos systemd[1]: serial-getty@ttyS0.service: Deactivated successfully.
+Jan 25 20:19:20 vyos systemd[1]: serial-getty@ttyS0.service: Scheduled restart job, restart counter is at 1995.
+Jan 25 20:19:20 vyos systemd[1]: Stopped serial-getty@ttyS0.service - Serial Getty on ttyS0.
+Jan 25 20:19:20 vyos systemd[1]: Started serial-getty@ttyS0.service - Serial Getty on ttyS0.
+Jan 25 20:19:20 vyos agetty[12493]: /dev/ttyS0: not a tty

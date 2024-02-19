@@ -1,0 +1,40 @@
+Received: from WIN-1KAJHNIII8Q.codespherenexus.org (172.18.1.5) by
+ WIN-1KAJHNIII8Q.codespherenexus.org (172.18.1.5) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.2.1118.7
+ via Mailbox Transport; Thu, 25 Jan 2024 10:35:27 -0800
+Received: from WIN-1KAJHNIII8Q.codespherenexus.org (172.18.1.5) by
+ WIN-1KAJHNIII8Q.codespherenexus.org (172.18.1.5) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.2.1118.7; Thu, 25 Jan 2024 10:35:11 -0800
+Received: from WIN-1KAJHNIII8Q.codespherenexus.org
+ ([fe80::deaa:d2e:2037:aed8]) by WIN-1KAJHNIII8Q.codespherenexus.org
+ ([fe80::deaa:d2e:2037:aed8%7]) with mapi id 15.02.1118.007; Thu, 25 Jan 2024
+ 10:35:04 -0800
+Content-Type: application/ms-tnef; name="winmail.dat"
+Content-Transfer-Encoding: binary
+From: Albert Plum <albert.plum@codespherenexus.org>
+To: james fletch <james.fletcher@codespherenexus.org>
+CC: all-codespherenexus-team <all-codespherenexus-team@codespherenexus.org>
+Subject: =?Windows-1252?Q?IMMEDIATE_ACTION_REQUIRED:_CRITICAL_IT_SECURITY_ALERT_?=
+ =?Windows-1252?Q?=96_APPLY_PATCH_NOW?=
+Thread-Topic: =?Windows-1252?Q?IMMEDIATE_ACTION_REQUIRED:_CRITICAL_IT_SECURITY_ALERT_?=
+ =?Windows-1252?Q?=96_APPLY_PATCH_NOW?=
+Thread-Index: AQHaT7vfcNwD0ea7PkuW1HRVdrgiLg==
+Date: Thu, 25 Jan 2024 10:35:02 -0800
+Message-ID: <caaeb5369a9145dea34d85c276217005@codespherenexus.org>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <caaeb5369a9145dea34d85c276217005@codespherenexus.org>
+MIME-Version: 1.0
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: WIN-1KAJHNIII8Q.codespherenexus.org
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-Originating-IP: [10.80.0.15]
+X-MS-Exchange-Organization-Network-Message-Id: aeb358c7-67c7-46f9-50f7-08dc1dd458fa
+Return-Path: albert.plum@codespherenexus.org
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:24.3599498
+X-MS-Exchange-Processed-By-BccFoldering: 15.02.1118.007

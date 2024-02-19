@@ -1,0 +1,22 @@
+url : https://morocco.warzone-challenges.com/3ATAR/
+Username : (team_name)
+Passowrd : (captain_email)
+
+
+
+for example : 
+
+Your data {
+
+	Team name : Wa7asaan
+	Captain email : Wa7assansmtg@gmail.com
+
+}
+
+
+Creds : {
+	
+	Username : Wa7asaan
+	Password : Wa7assansmtg@gmail.com
+
+}

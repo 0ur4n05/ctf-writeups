@@ -1,7 +1,6 @@
 from pwn import *
 import sys
 import ctypes
-import numpy as np
 
 context.terminal = "kitty"
 context.gdbinit = "/opt/pwndbg/gdbinit"
